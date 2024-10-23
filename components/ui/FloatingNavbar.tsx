@@ -1,11 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import {
-  motion,
-  AnimatePresence,
-  useScroll,
-  useMotionValueEvent,
-} from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
 
@@ -20,7 +15,7 @@ export const FloatingNav = ({
   }[];
   className?: string;
 }) => {
-  const [visible, setVisible] = useState(true);
+  const [visible] = useState(true);
 
   return (
     <AnimatePresence mode="wait">
