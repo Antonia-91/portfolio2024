@@ -139,33 +139,32 @@ export const companies = [
     nameImg: "/dockerName.svg",
   },
 ];
-
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Frontend Developer",
+    desc: "Currently enhancing user-facing features at Alstra AB using Vue.js, TypeScript, and Node.js while managing the project lifecycle and engaging in client meetings for UX/UI improvements.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "E-Commerce Manager",
+    desc: "Spearheaded daily operations of Twoangels AB's e-commerce platform, optimizing user experience through WordPress and ensuring high-quality product presentation and customer service.",
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "Personal Projects in Web and App Development",
+    desc: "Created a variety of personal projects utilizing a robust tech stack, including Vue.js, React, TypeScript, Node.js, HTML, CSS, and databases like MySQL and MongoDB. Focused on responsive design, user feedback integration, and employing tools such as Docker and GitHub for efficient project management.",
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Intern - Frontend Developer",
+    desc: "Gained hands-on experience in web technologies during my studies, specializing in JavaScript, HTML, CSS, and responsive design for diverse platforms.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
