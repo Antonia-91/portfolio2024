@@ -10,7 +10,7 @@
 <h1>Välkommen till mitt projekt!</h1>
 
 <!-- Lägg till bilden här -->
-<img src="/projectPrint.png" alt="projectPrint" width="640" height="360">
+<img src="/portfolio/public/projectPrint.png" alt="projectPrint" width="640" height="360">
 
 </body>
 </html>
