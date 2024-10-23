@@ -93,7 +93,7 @@ export const projects = [
     id: 3,
     title: "Explore foods from around the globe",
     des: "The project's frontend is built in React, the backend in Node.js and MySQL.",
-    img: "/FeadmeApp-screenshot.png",
+    img: "/feedApp.svg",
     iconLists: ["/re.svg", "/scss.svg", "/js.svg", "/node.svg", "/mysql.svg"],
     link: "/ui.aiimg.com",
   },
