@@ -15,9 +15,8 @@ const Approach = () => {
         <Card
           title="Planning & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          des="I believe in a collaborative approach to define your website's objectives, identify the target audience, and outline key functionalities. I enjoy listening to my clients and understanding their vision, ensuring that we align on aspects such as site structure, navigation, and content requirements. By incorporating feedback and insights from both clients and team members, we can create a user-centered foundation for the project.
+"
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -26,11 +25,10 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
+          title="Development & Progress Updates"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+          des="Once we have a solid plan in place, I dive into the development phase with enthusiasm for new technologies. My go-to tools include TypeScript, Vue.js, and React, which I leverage to bring your ideas to life. I value open communication and provide regular progress updates, ensuring that you're informed and engaged every step of the way. My agile approach allows for flexibility and adaptation, making room for adjustments based on your feedback.
+"
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -50,9 +48,7 @@ const Approach = () => {
         <Card
           title="Development & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          des="This is where the magic happens! With the approved design as my blueprint, I build a functional and responsive website from the ground up. I thrive on collaboration and leverage my team's strengths to ensure that every detail is executed flawlessly."
         >
           <CanvasRevealEffect
             animationSpeed={3}
