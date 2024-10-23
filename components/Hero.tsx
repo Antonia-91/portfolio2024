@@ -55,7 +55,7 @@ const Hero = () => {
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi! I&apos;m Antonia, a Fronetend Developer based in Stockholm.
           </p>
-
+          {/* 
           <a href="#about">
             <MagicButton
               title="Download CV"
@@ -63,7 +63,7 @@ const Hero = () => {
               position="right"
               downloadLink="/Antonia_CV.png"
             />
-          </a>
+          </a> */}
         </div>
       </div>
     </div>
