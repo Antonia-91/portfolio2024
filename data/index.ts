@@ -83,10 +83,10 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Larg Project - Client at Alsra AB",
-    des: "Conmplex project with a lot of features and a lot of pages, using the latest tech stack.",
-    img: "/wtw.png",
-    iconLists: ["/vue.svg", "/axios.svg", "/ts.svg", "/azure.svg"],
+    title: "Figma project",
+    des: "This project is Figma UX and UI markups qnd workflow templates.",
+    img: "/figma.png",
+    iconLists: [""],
     link: "/ui.yoom.com",
   },
   {
